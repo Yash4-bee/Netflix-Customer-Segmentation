@@ -32,7 +32,8 @@ Customer segmentation for personalized content and marketing optimization for Ne
     8. Plotting the Heatmap for Better Understanding
     9. PCA Visualization Plot
     10. Some More Plots
-
+# Notebook Link
+https://colab.research.google.com/drive/1x1CrM3w24ijpMhZik6KOWbLriIQIOMCR?usp=sharing
 
 
 
